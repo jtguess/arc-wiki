@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Sensitive config files
+config.yml
+
+# Temporary files
+*.log
+*.pid
+
+# Database backups
+*.sql
